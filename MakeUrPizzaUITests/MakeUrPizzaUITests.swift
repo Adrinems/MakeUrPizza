@@ -2,8 +2,8 @@
 //  MakeUrPizzaUITests.swift
 //  MakeUrPizzaUITests
 //
-//  Created by Cidte on 2/1/16.
-//  Copyright © 2016 Cidte. All rights reserved.
+//  Created by Adriana on 2/1/16.
+//  Copyright © 2016 Adriana. All rights reserved.
 //
 
 import XCTest
